@@ -1,0 +1,27 @@
+{
+  "name": "pgio",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/minhyukkim501/pgio#readme",
+  "bugs": {
+    "url": "https://github.com/minhyukkim501/pgio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhyukkim501/pgio.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "pg": "^8.16.3"
+  }
+}
